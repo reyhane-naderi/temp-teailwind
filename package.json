@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "alpinejs": "^3.12.2",
+    "tailwind-gradient-mask-image": "^1.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  },
+  "name": "alpain",
+  "version": "1.0.0",
+  "main": "page2.js",
+  "scripts": {
+    "build:css": "tailwind build tw.css -o ../tailwind.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

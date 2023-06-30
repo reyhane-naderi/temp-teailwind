@@ -1,0 +1,4 @@
+{
+    "notebook.formatOnSave.enabled": true,
+    "notebook.navigation.allowNavigateToSurroundingCells": false
+}
